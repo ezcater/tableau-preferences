@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+<workbook>
+    <preferences>
+        <color-palette name="ezCater Regular" type="regular" >
+            <color>#1D3C34</color>
+            <color>#034A34</color>
+            <color>#00B373</color>
+            <color>#F9FAE4</color>
+            <color>#151515</color>
+            <color>#FF585D</color>
+        </color-palette>
+
+        <color-palette name="ezCater Regular 20" type="regular" >
+            <color>#1D3C34</color>
+            <color>#034A34</color>
+            <color>#00B373</color>
+            <color>#70ffc9</color>
+            <color>#d5fdee</color>
+
+            <color>#F9FAE4</color>
+            <color>#f6f3b5</color>
+            <color>#f3eb90</color>
+            <color>#e8c400</color>
+            <color>#9a8400</color>
+
+            <color>#3c4750</color>
+            <color>#5a6a77</color>
+            <color>#adbcc4</color>
+            <color>#c9d1d7</color>
+            <color>#e3e9eb</color>
+
+            <color>#fb2b1c</color>
+            <color>#FF585D</color>
+            <color>#fd9d9e</color>
+            <color>#febdbf</color>
+            <color>#fedddf</color>
+        </color-palette>
+
+        <color-palette name="ezCater Cilantro Green Sequential" type="ordered-sequential" >
+            <color>#034A34</color>
+            <color>#00764d</color>
+            <color>#00b676</color>
+            <color>#00fcaf</color>
+            <color>#92fdd7</color>
+            <color>#d3fdee</color>
+        </color-palette>
+
+        <color-palette name="ezCater Guava Red Sequential" type="ordered-sequential" >
+            <color>#fb2b1c</color>
+            <color>#FF585D</color>
+            <color>#fd9d9e</color>
+            <color>#febdbf</color>
+            <color>#fedddf</color>
+        </color-palette>
+
+        <color-palette name="ezCater Vanilla Frosting Sequential" type="ordered-sequential" >
+            <color>#F9FAE4</color>
+            <color>#f6f3b5</color>
+            <color>#f3eb90</color>
+            <color>#e8c400</color>
+            <color>#9b8400</color>
+        </color-palette>
+
+        <color-palette name="ezCater Vanilla Frosting to Kale Green Sequential" type="ordered-sequential" >
+            <color>#F9FAE4</color>
+            <color>#eaf9b5</color>
+            <color>#d8f270</color>
+            <color>#b5d600</color>
+            <color>#5c6a00</color>
+            <color>#1D3C34</color>
+        </color-palette>
+
+        <color-palette name="ezCater Guava Red to ezGreen Diverging" type="ordered-diverging" >
+            <color>#FF585D</color>
+            <color>#00B373</color>
+        </color-palette>
+
+        <color-palette name="ezCater Guava Red to Cilantro Green Diverging" type="ordered-diverging" >
+            <color>#FF585D</color>
+            <color>#034A34</color>
+        </color-palette>
+
+        <color-palette name="ezCater Guava Red to Kale Green Diverging" type="ordered-diverging" >
+            <color>#FF585D</color>
+            <color>#1D3C34</color>
+        </color-palette>
+
+        <color-palette name="ezCater Guava Red to Black Olive Diverging" type="ordered-diverging" >
+            <color>#FF585D</color>
+            <color>#151515</color>
+        </color-palette>
+        <color-palette name="ezCater Guava Red to Vanilla Frosting Diverging" type="ordered-diverging" >
+            <color>#FF585D</color>
+            <color>#F9FAE4</color>
+        </color-palette>
+    </preferences>
+</workbook>
